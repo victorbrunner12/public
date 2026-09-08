@@ -1,0 +1,21 @@
+id_gato,nome,idade_meses,raca,peso_kg,nivel_atividade,sociabilidade,apetite,horas_sono_dia,comportamento_agressivo,frequencia_visita_petshop_mes,observacao
+1,Mia,14,SRD,3.8,Alto,Alta,Normal,14,Nao,2,Gosta de brincar com bolinhas
+2,Tom,36,Siames,4.5,Medio,Baixa,Alto,16,Sim,1,Reage mal a outros animais na sala de espera
+3,Nina,8,Persa,2.9,Baixo,Alta,Normal,18,Nao,3,Prefere colo a brincadeiras
+4,Bento,24,SRD,5.1,Alto,Media,Alto,12,Nao,2,Muito agitado durante banho
+5,Luna,6,Maine Coon,2.2,Alto,Alta,Normal,15,Nao,4,"Filhote, ainda em adaptacao"
+6,Simba,48,SRD,5.8,Baixo,Baixa,Baixo,17,Sim,1,"Idoso, evita manuseio"
+7,Amora,18,Angora,3.4,Medio,Alta,Normal,14,Nao,2,Bem sociavel com outros gatos
+8,Bilu,12,SRD,4.0,Alto,Media,Alto,13,Nao,3,Gosta de arranhador novo
+9,Frida,30,Siames,3.9,Medio,Baixa,Normal,16,Sim,1,Estressa com transporte
+10,Zeca,10,SRD,3.6,Alto,Alta,Alto,14,Nao,3,Muito brincalhao
+11,Mel,20,Persa,3.2,Baixo,Media,Baixo,18,Nao,1,Apetite reduzido no ultimo mes
+12,Thor,15,Maine Coon,5.5,Alto,Alta,Normal,13,Nao,2,Adora area externa do petshop
+13,Kika,9,SRD,3.0,Medio,Alta,Normal,15,Nao,3,"Recem-castrada, em recuperacao"
+14,Odin,42,SRD,6.0,Baixo,Baixa,Normal,17,Sim,1,Territorialista com outros machos
+15,Sasha,5,Angora,1.9,Alto,Alta,Alto,16,Nao,4,"Filhote, primeira vacinacao"
+16,Duque,28,Siames,4.3,Medio,Media,Normal,15,Nao,2,Comportamento estavel
+17,Fofinha,16,SRD,3.5,Alto,Alta,Alto,14,Nao,3,Muito vocal
+18,Max,22,Persa,4.1,Baixo,Baixa,Baixo,18,Sim,1,Nao gosta de manuseio nas patas
+19,Nala,11,Maine Coon,3.3,Alto,Alta,Normal,14,Nao,3,Curiosa com novos ambientes
+20,Pingo,33,SRD,4.7,Medio,Media,Normal,15,Nao,2,Bom com criancas
